@@ -1,0 +1,15 @@
+C:\Users\fgb87\source\repos\estudantes\estudantes\bin\Debug\net7.0\estudantes.exe
+C:\Users\fgb87\source\repos\estudantes\estudantes\bin\Debug\net7.0\estudantes.deps.json
+C:\Users\fgb87\source\repos\estudantes\estudantes\bin\Debug\net7.0\estudantes.runtimeconfig.json
+C:\Users\fgb87\source\repos\estudantes\estudantes\bin\Debug\net7.0\estudantes.dll
+C:\Users\fgb87\source\repos\estudantes\estudantes\bin\Debug\net7.0\estudantes.pdb
+C:\Users\fgb87\source\repos\estudantes\estudantes\obj\Debug\net7.0\estudantes.csproj.AssemblyReference.cache
+C:\Users\fgb87\source\repos\estudantes\estudantes\obj\Debug\net7.0\estudantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fgb87\source\repos\estudantes\estudantes\obj\Debug\net7.0\estudantes.AssemblyInfoInputs.cache
+C:\Users\fgb87\source\repos\estudantes\estudantes\obj\Debug\net7.0\estudantes.AssemblyInfo.cs
+C:\Users\fgb87\source\repos\estudantes\estudantes\obj\Debug\net7.0\estudantes.csproj.CoreCompileInputs.cache
+C:\Users\fgb87\source\repos\estudantes\estudantes\obj\Debug\net7.0\estudantes.dll
+C:\Users\fgb87\source\repos\estudantes\estudantes\obj\Debug\net7.0\refint\estudantes.dll
+C:\Users\fgb87\source\repos\estudantes\estudantes\obj\Debug\net7.0\estudantes.pdb
+C:\Users\fgb87\source\repos\estudantes\estudantes\obj\Debug\net7.0\estudantes.genruntimeconfig.cache
+C:\Users\fgb87\source\repos\estudantes\estudantes\obj\Debug\net7.0\ref\estudantes.dll
